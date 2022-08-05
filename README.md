@@ -2,9 +2,10 @@
 - 👀 I’m a Mobile app developer
 - This is my stack overflow link https://stackoverflow.com/users/10936691/kishan-busa
 
-How to reach me
+**How to reach me**
 
 Email id : kishanbusa08@gmail.com
+
 linkedin : https://in.linkedin.com/in/kishanbusa
 
 
