@@ -8,7 +8,11 @@ Email id : kishanbusa08@gmail.com
 
 linkedin : https://in.linkedin.com/in/kishanbusa
 
+## Profile Views
 
+<img src="https://profile-counter.glitch.me/KishanBusa8/count.svg">
+
+<br />
 <!---
 KishanBusa8/KishanBusa8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
