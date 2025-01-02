@@ -21,12 +21,6 @@ My expertise in **MVC architecture** and **state management techniques** like **
 - **Node.js**: Backend development & API creation
 - **Kotlin**: Native programming & Flutter integration
 
-### **Mobile & Web Development**
-- Expert in **Flutter** for mobile and web applications
-- Skilled in deploying apps on **Google Play Store** and **Apple App Store**
-- Proficient in integrating third-party services and payment gateways
-- Offline database management with **SQLite** and **Hive (NoSQL)**
-
 ### **Cloud & Backend Services**
 - Advanced knowledge of **Firebase Services**:
   - Real-time database
@@ -42,25 +36,9 @@ My expertise in **MVC architecture** and **state management techniques** like **
 ### **State Management**
 - Deep expertise in **BLoC**, **GetX**, **Provider**, and **Stacked** patterns
 
-### **Integration & Payment Systems**
-- Proficient in integrating **payment gateways**
-- Experience implementing **AdMob** and **in-app purchases** for both Android and iOS
-
-### **Tools & Frameworks**
-- **Flutter**, **Node.js**, **Firebase**, **Unity**
-- Development Environments: **Android Studio**, **VS Code**, **Xcode**
-
 ### **Methodologies & Version Control**
 - **Agile**, **Scrum**, **CI/CD**
 - Proficient in **Git**, **GitHub**
-
----
-
-## 🏆 Professional Experience
-
-- Successfully completed **20+ independent projects** with end-to-end development
-- Extensive experience in **native programming** and **API development**
-- Published custom packages on **Pub.dev**
 
 ---
 
