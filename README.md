@@ -9,7 +9,7 @@ With a deep understanding of the **entire application lifecycle**, I specialize 
 - **Knowledge Transfer**
 - **Business Analysis**
 
-My expertise in **MVC architecture** and **state management techniques** like **BLoC, GetX, and Provider patterns** ensures the development of responsive, high-performance applications.
+My expertise in **MVC And MVVM architecture** and **state management techniques** like **Flutter recommend MVVM, Stacked, BLoC, GetX, and Provider patterns** ensures the development of responsive, high-performance applications.
 
 ---
 
@@ -18,7 +18,7 @@ My expertise in **MVC architecture** and **state management techniques** like **
 ### **Languages & Frameworks**
 - **JavaScript**: Advanced proficiency
 - **Dart**: Expertise in mobile & web development
-- **Node.js**: Backend development & API creation
+- **Node.js/Nest.js**: Backend development & API creation
 - **Kotlin**: Native programming & Flutter integration
 
 ### **Cloud & Backend Services**
@@ -34,7 +34,7 @@ My expertise in **MVC architecture** and **state management techniques** like **
 - **MongoDB**, **MySQL**, **PostgreSQL**, **Firebase Real-time Database**, **Firestore**, **SQLite**
 
 ### **State Management**
-- Deep expertise in **BLoC**, **GetX**, **Provider**, and **Stacked** patterns
+- Deep expertise in **MVVM**, **BLoC**, **GetX**, **Provider**, and **Stacked** patterns
 
 ### **Methodologies & Version Control**
 - **Agile**, **Scrum**, **CI/CD**
