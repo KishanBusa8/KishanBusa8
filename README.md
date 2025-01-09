@@ -1,6 +1,6 @@
 # 🚀 FullStack Developer
 
-Welcome to my GitHub profile! I am a **highly skilled and results-driven FullStack Developer** with over **5 years of experience in mobile application development using Flutter**, and **2 years of expertise in backend development with Node.js**. My passion lies in creating robust, scalable solutions and ensuring seamless user experiences across mobile and web platforms.
+Welcome to my GitHub profile! I am a **highly skilled and results-driven FullStack Developer** with over **5 years of experience in mobile application development using Flutter and React Native**, and **2 years of expertise in backend development with Node.js, Nest.js**. My passion lies in creating robust, scalable solutions and ensuring seamless user experiences across mobile and web platforms.
 
 ## 🌟 About Me
 With a deep understanding of the **entire application lifecycle**, I specialize in:
@@ -17,6 +17,7 @@ My expertise in **MVC And MVVM architecture** and **state management techniques*
 
 ### **Languages & Frameworks**
 - **JavaScript**: Advanced proficiency
+- **TypeScript**: Advanced proficiency
 - **Dart**: Expertise in mobile & web development
 - **Node.js/Nest.js**: Backend development & API creation
 - **Kotlin**: Native programming & Flutter integration
