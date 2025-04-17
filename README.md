@@ -50,8 +50,8 @@ My expertise in **MVC And MVVM architecture** and **state management techniques*
 
 Feel free to reach out or collaborate on exciting projects!
 
-📧 **Email**: kishanbusa08@gmail.com
-🔗 **LinkedIn**: [https://in.linkedin.com/in/kishanbusa](#)
+📧 **Email**: kishanbusa08@gmail.com  
+🔗 **LinkedIn**: [https://in.linkedin.com/in/kishanbusa](#)  
 🐦 **Stackoverflow**: [https://stackoverflow.com/users/10936691/kishan-busa](#)
 
 ---
